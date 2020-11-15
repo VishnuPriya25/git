@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println(x);
 		System.out.println("second commit");
 		System.out.println("new feature branch");
+		System.out.println("github push");
 	}
 
 }
