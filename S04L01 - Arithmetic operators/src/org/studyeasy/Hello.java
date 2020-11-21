@@ -2,12 +2,6 @@ package org.studyeasy;
 public class Hello {
 	public static void main(String[] args) {
 		
-		int x = 10;
-		System.out.println(--x);
-		System.out.println(x);
-		System.out.println("second commit");
-		System.out.println("new feature branch");
-		System.out.println("github push");
 	}
 
 }
